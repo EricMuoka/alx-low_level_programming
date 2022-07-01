@@ -1,0 +1,3 @@
+#!/bib/bash
+gcc--masm=intel -S $CFILE
+
